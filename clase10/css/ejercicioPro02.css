@@ -1,0 +1,17 @@
+.estilo{
+    background-color:rgb(28, 180, 226);
+    border: 2px ;
+    margin-right: 56.3%;
+}
+.btn{
+    font-size: 15px;
+    color:white;
+    background-color: rgb(48, 159, 192);
+    border: 5px solid rgb(22, 155, 196);
+    margin: 1%;
+    padding: 1%;
+}
+.enlace{
+    color: white;
+    
+}

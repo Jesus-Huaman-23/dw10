@@ -1,0 +1,32 @@
+
+.titulo{
+    
+    font-size: 22px;
+}
+.estilo{
+    border-radius: 20px;
+    border: 2px solid rgb(5, 15, 156);
+    margin-right: 6%;
+    margin-left: 6%;
+    padding-top: 1%;
+    padding-left: 0.7%;
+}
+.estilo1{
+    color:white;
+    border-radius: 20px;
+    background-color: green;
+    border: 3px solid green;
+    margin:1%;
+    margin-bottom: 2%;
+    margin-left: 0.5%;
+    padding: 0.7%;
+}
+
+/*.estilo2{
+    background-color: green;
+    border: 2px solid blue;
+}
+.estilo3{
+    background-color: green;
+    border: 2px solid blue;
+}*/
